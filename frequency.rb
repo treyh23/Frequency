@@ -1,4 +1,4 @@
-puts "Text Please"
+puts "Enter the text you'd like to find frequency in"
 text = gets.chomp
 
 words = text.split" "
